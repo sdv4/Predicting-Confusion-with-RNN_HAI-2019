@@ -3,3 +3,7 @@ Code for models and experiments presented in _Predicting Confusion from Eye-Trac
 
 
 Code will be available soon (expect by the end of July 2019)
+
+
+## Liscence
+BSD
