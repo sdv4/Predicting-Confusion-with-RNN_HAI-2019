@@ -7,4 +7,4 @@ This code is being made available to allow others to verify our procedure so tha
 Please contact me if you notice any errors, have any suggestions, or just want to chat about classifying eye-tracker data using deep learning approaches. 
 
 
-### note: The dataset required to run these experiments has not been made publicly available.
+#### Note: The dataset required to run these experiments has not yet been made publicly available.
