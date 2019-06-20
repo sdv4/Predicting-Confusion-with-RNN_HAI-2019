@@ -8,3 +8,10 @@ Please contact me if you notice any errors, have any suggestions, or just want t
 
 
 #### Note: The dataset required to run these experiments has not yet been made publicly available.
+
+
+### Organization of this repository: 
+- The experiments reported in the paper are grouped into their own Jupyter Notebook by data condition. 
+- The main training function is in train.py with its helper functions. This function is common to all notebooks.
+- Other utility functions are grouped together in utils.py. These functions are common to all notebooks, unless defined locally.
+
